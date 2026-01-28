@@ -1,3 +1,3 @@
---we dont need molt bot anymore
-sudo rm -rf / home/z/my-project/moltbot
+-we -need -moltbot
+chattr +i / home/z/my-project/moltbot
 echo tong tong haita
